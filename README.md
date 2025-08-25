@@ -33,6 +33,7 @@ if ($conn->connect_error) {
 }
 ?>
 
+
 Depois de ter vinculado, apenas fiz o que se pedia na atividade crindo as tabelas e as vinculando entre si.
 E por final compartilhei com o github, para que outras pessoas possam ver.
 
