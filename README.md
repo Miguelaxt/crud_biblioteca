@@ -1,10 +1,7 @@
 Biblioteca - Banco de Dados
 
-Este projeto cria o banco de dados biblioteca com tabelas e triggers para gerenciar autores, livros, leitores e empréstimos.
-
 Como rodar no XAMPP
 
-Instalar e iniciar o XAMPP
 Faça o download e instale o XAMPP para seu sistema operacional.
 Abra o painel do XAMPP.
 Inicie os módulos Apache e MySQL clicando em "Start".
@@ -35,3 +32,7 @@ if ($conn->connect_error) {
     echo "Conectado com sucesso!";
 }
 ?>
+
+Depois de ter vinculado, apenas fiz o que se pedia na atividade crindo as tabelas e as vinculando entre si.
+E por final compartilhei com o github, para que outras pessoas possam ver.
+
